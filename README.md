@@ -19,8 +19,3 @@ The project is organized as follows:
 * **System Latency Evaluation:** This section evaluates the system latency and its impact on the performance of the UAV.
 * **Conclusion:** This section summarizes the findings of the project and discusses future research directions.
 * **References:** This section lists the references used in the project.
-
-
-### Disclaimer
-
-This project is for research purposes only. The authors are not responsible for any damages caused by the use of this project.
